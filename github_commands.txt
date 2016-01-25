@@ -1,0 +1,14 @@
+GITHUB COMMANDS:
+	
+-Get the repository from the github website:
+  *git clone https://github.com/63ozone/video-tutorial
+
+-Change directory into the repository folder
+ *cd video-tutorial
+
+-Tell status of the repository. Any file names in red have not been
+ officially added to the repository 
+ *git status
+
+-Add
+ *git add filename.txt
