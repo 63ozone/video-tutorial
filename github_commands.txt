@@ -10,5 +10,8 @@ GITHUB COMMANDS:
  officially added to the repository 
  *git status
 
--Add
+-Add the file to the repository (if you git status now, the filename will be green)
  *git add filename.txt
+
+-officially commit the file (make changes permanent). Forces you to make a comment
+ *git commit -m "comment about what you have done to the file"
