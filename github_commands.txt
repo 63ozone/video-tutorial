@@ -15,3 +15,6 @@ GITHUB COMMANDS:
 
 -officially commit the file (make changes permanent). Forces you to make a comment
  *git commit -m "comment about what you have done to the file"
+
+-export the file (upload it) to the online repository on gitHub.com
+ *git push
